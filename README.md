@@ -35,9 +35,18 @@ Jenis-Jenis Tableau:
 
 
 # Praktik Tableau
-1. Buka Aplikasi Tableau, dapat menggunakan Tableau Online (Free Trial) ataupun Tableau Desktop (Free Trial atau Lisensi Mahasiswa)
+1. Buka Aplikasi Tableau, dapat menggunakan Tableau Online (Free Trial) ataupun Tableau Desktop (Free Trial atau Lisensi Mahasiswa). Tampilan workspace akan seperti berikut:
+![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/workspace.png?raw=true)
 2. Download Dataset yang ada di folder Dataset
-3. Pilih Connect to Data, maka nantinya tampilan akan menjadi seperti berikut:
+3. Klik Data Source pada Workspace , maka nantinya tampilan akan menjadi seperti berikut:
+![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/datasource.png?raw=true)
+4. Pilih Microsoft Excel kemudian pilih file Dataset yang sudah di-download. Tampilannya maka akan seperti ini:
+![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/Screenshot_320.png?raw=true)
+![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/Screenshot_321.png?raw=true)
+5. Berikut ini adalah Data Pane dari Sheet Orders dan penjelasannya:
+![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/Screenshot_322.png?raw=true)
+![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/Screenshot_323.png?raw=true)
+![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/Screenshot_324.png?raw=true)
 
-![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/img1.png?raw=true)
+
 
