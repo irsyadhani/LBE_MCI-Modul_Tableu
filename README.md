@@ -2,10 +2,10 @@
 Modul LBE MCI 2020: Visualisasi Data menggunakan aplikasi Tableau
 
 # Tentang Tableau
-Tableau adalah sebuah tools untuk mengoalah data dan didalamnya terdapat menu-menu analisis yang berkaitan dengan Bussiness Intelligence.
+Tableau adalah sebuah aplikasi yang dirancang untuk melakukan Business Intellegent secara cepat dan melakukan visualisasi data. Aplikasi ini memungkinkan anda untuk melakukan analisis dari sebuah struktur data dan menghasilkan grafik, dashboard, dan laporan yang sangat interaktif dan indah, hanya dalam hitungan menit.
 Tableau mempunyai kelebihan :
 - Hasil cepat untuk informasi yang bermanfaat
-- Mudah digunakan untuk semua level skill, karena fitur yang digunakan cukup drag and drop
+- Mudah digunakan untuk semua level skill, karena untuk menggunakannya cukup dengan klik, drag and drop
 - Jalur migrasi yang sangat baik untuk pengguna Excel
 - Dapat dengan mudah diintegrasikan dengan berbagai bahasa contohnya R dan Python, serta DBMS seperti MySQL dan Oracle
 
@@ -19,7 +19,7 @@ Jenis-Jenis Tableau:
     
     Pada Tableau public disini berarti semua data pekerjaan disimpan di dalam cloud dan dapat dilihat atau diakses oleh siapapun. Tidak ada batasan pada jenis ini. Pada jenis ini juga dapat dengan mudah mendownload data pekerjaan orang lain. Merupakan versi yang cocok untuk memulai belajar tableau.
 
-- Tableau server
+- Tableau Server
     
     Jenis ini adalah versi yang memungkinkan untuk membagi hasil pengolahan/workbooks kepada orang tertentu. Sangat berguna di dalam sebuah organisasi dimana setiap informasi dibutuhkan oleh banyak orang sekaligus. Untuk membaginya pertama maka harus memiliki Tableau desktop terlebih dahulu barulah setelah itu diupload ke server. Admin server dapat mengntrol segala kegiatan yang berlangsung di server.
 
@@ -30,3 +30,14 @@ Jenis-Jenis Tableau:
 - Tableau Reader
 
     Jenis ini adalah versi gratis yang memungkinkan untuk melihat hasil pengolahan data / workbooks dari Tableau Desktop. namun tetap saja tidak bisa mengedit workbooks tersebut dan fiturnya sangat terbatas
+
+![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/perbedaan-tableau.jpg?raw=true)
+
+
+# Praktik Tableau
+1. Buka Aplikasi Tableau, dapat menggunakan Tableau Online (Free Trial) ataupun Tableau Desktop (Free Trial atau Lisensi Mahasiswa)
+2. Download Dataset yang ada di folder Dataset
+3. Pilih Connect to Data, maka nantinya tampilan akan menjadi seperti berikut:
+
+![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/img1.png?raw=true)
+
