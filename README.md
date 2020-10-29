@@ -43,10 +43,19 @@ Jenis-Jenis Tableau:
 4. Pilih Microsoft Excel kemudian pilih file Dataset yang sudah di-download. Tampilannya maka akan seperti ini:
 ![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/Screenshot_320.png?raw=true)
 ![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/Screenshot_321.png?raw=true)
-5. Berikut ini adalah Data Pane dari Sheet Orders dan penjelasannya:
-![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/Screenshot_322.png?raw=true)
-![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/Screenshot_323.png?raw=true)
-![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/Screenshot_324.png?raw=true)
+5. Berikut ini adalah penjelasan dari fitur-fitur yang ada pada workspace Tableau:
+- Data Pane:
 
+    ![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/Screenshot_322.png?raw=true)
+    ![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/Screenshot_323.png?raw=true)
+    ![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/Screenshot_324.png?raw=true)
+
+- Analytics Pane:
+
+    ![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/Screenshot_325.png?raw=true)
+
+- Component View:
+
+    ![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/Screenshot_326.png?raw=true)
 
 
