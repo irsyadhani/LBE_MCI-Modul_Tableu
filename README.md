@@ -59,3 +59,6 @@ Jenis-Jenis Tableau:
     ![alt text](https://github.com/irsyadhani22/LBE-MCI_Modul-Tableu/blob/main/img/Screenshot_326.png?raw=true)
 
 
+Sumber:
+- https://anaktik.com/tableau/
+- https://www.datacamp.com/community/tutorials/data-visualisation-tableau
